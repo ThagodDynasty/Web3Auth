@@ -15,7 +15,7 @@
     "react-router-dom": "^6.3.0",
     "react-switch": "^7.0.0",
     "start": "^5.1.0",
-    "web3": "^1.7.5"
+    "web3": "^4.0.3"
   },
   "scripts": {
     "start": "react-app-rewired start",
